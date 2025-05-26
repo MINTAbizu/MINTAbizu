@@ -1,5 +1,5 @@
 const Mintsenot = {
-  education:'Information system from DBu',
+  education:'Information system from DBu', 
   interest :['Front-End-React.js', 'Full Stack Development-MERN-Stack', 'Back-end-node.js'],
   current:  ' Working on Full Stack Projects',
   tech: {
