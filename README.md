@@ -21,11 +21,18 @@ both sql and nosql database management
 
 express nodejs
 Node.js
+
+
 Other Technologies:
+
 
 Git
 Shell Scripting (Bash)
+
+
 💼 Experience
+
+
 HTML/CSS/Bootstrap/Tailwind:
 
 Developed responsive and visually appealing web interfaces using HTML, CSS, Bootstrap, and Tailwind CSS.
