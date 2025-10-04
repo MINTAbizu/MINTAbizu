@@ -1,4 +1,5 @@
  About Me
+ 
 I'm a passionate software engineer and information systems graduate with expertise in a variety of technologies. I love building responsive web applications and solving challenging problems.
 
 🔧 Skills
@@ -13,6 +14,7 @@ JavaScript:
 JavaScript
 ES6+
 React.js
+
 Backend Development:
 
 both sql and nosql database management
