@@ -14,10 +14,13 @@ JavaScript:
 JavaScript
 ES6+
 React.js
+Next.js
+React-native.js
 
 Backend Development:
 
 both sql and nosql database management
+
 
 express nodejs
 Node.js
