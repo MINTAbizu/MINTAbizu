@@ -73,7 +73,7 @@ HTML/CSS/Bootstrap/Tailwind:
 Developed responsive and visually appealing web interfaces using HTML, CSS, Bootstrap, and Tailwind CSS.
 JavaScript:
 
-Created interactive web applications using vanilla JavaScript and modern frameworks like React.js and Vue.js.
+Created interactive web applications using vanilla JavaScript and modern frameworks like React.js and 
 MySQL:
 
 Designed and maintained relational databases using MySQL.
