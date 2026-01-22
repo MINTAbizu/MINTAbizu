@@ -25,7 +25,13 @@ I'm a passionate software engineer and information systems graduate with experti
 
 </h1>
 
+Databases
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
 
+  Tools 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+</p>
 
 💼 Experience
 
