@@ -6,7 +6,7 @@ I'm a passionate software engineer and information systems graduate with experti
 ## 🛠️ Skills
 
 <p align="left">
-   Frontend 
+ <h1>Front-End</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
@@ -16,33 +16,13 @@ I'm a passionate software engineer and information systems graduate with experti
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
 </p>
 
+<h1> Back-End</h1>
+<h1>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
 
-HTML5
-CSS3
-Tailwind CSS
-bootstrap
-JavaScript:
+</h1>
 
-JavaScript
-ES6+
-React.js
-Next.js
-React-native.js
-
-Backend Development:
-
-both sql and nosql database management
-
-
-express nodejs
-Node.js
-
-
-Other Technologies:
-
-
-Git
-Shell Scripting (Bash)
 
 
 💼 Experience
